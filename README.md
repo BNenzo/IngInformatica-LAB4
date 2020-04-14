@@ -20,3 +20,9 @@ En la carpeta ejercicio6:
 	
 Ademas afuera de todas estas carpetas se encuentra una foto de como quedo el directorio al finalizar con los .md que se tenian que crear y con el contenido correspondiente
 
+LOCAL: es el repositorio en la propia computadora
+
+REMOTE: es el que esta en la nube, lo que se hace es meter el codigo local en el remote normalmente.
+
+BASE: el base es el espacio intermedio, por ej, cuando hay cambios en local que tienen conflictos con lo que esta en el remote. se crea un intermedio que seria el base,
+esos cambios se hacen en un lugar que no es ni local ni remote, se hacen un espacio intermedio que seria el base.
